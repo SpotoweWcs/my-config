@@ -1,0 +1,5 @@
+mome:
+  maintenanceTwo:
+    enabled: true
+    percentage: 30
+    vehicleAgeRounding: 0.6
