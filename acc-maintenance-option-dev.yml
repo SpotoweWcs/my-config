@@ -2,4 +2,4 @@ mome:
   maintenanceTwo:
     enabled: true
     percentage: 30
-    vehicleAgeRounding: 0.6
+    vehicleAgeRounding: 0.8
